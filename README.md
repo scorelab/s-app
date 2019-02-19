@@ -11,5 +11,5 @@
 * Copy paste all the files inside _s-app-master/schain-app/_ to SApp folder.
 * Then type the following in the terminal
 ```
-react-native run-android
+$ react-native run-android
 ```
