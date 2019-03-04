@@ -17,7 +17,7 @@ This application is made using React Native which is a JavaScript framework that
  - npm : version 5.3.0
  - Expo mobile application or an emulator 
 
-<h2>Setting up the project<h2>
+<h2>Setting up the project</h2>
 
 <b>Step 01</b>: In the command prompt navigate into "schain-app" folder and type
 ```
